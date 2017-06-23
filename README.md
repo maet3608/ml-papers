@@ -35,6 +35,18 @@ Fast saliency detection method that can be applied to any differentiable image c
 Learning from unlabelled video and audio data.
 
 
+## Semi-Supervised
+
+[Improved Techniques for Training GANs](https://arxiv.org/pdf/1606.03498.pdf):
+Very good results for semi-supervised training on MNIST, CIFAR-10 and SVHN datasets.
+
+
+## GANs
+
+[Improved Techniques for Training GANs](https://arxiv.org/pdf/1606.03498.pdf):
+Very good results for semi-supervised training on MNIST, CIFAR-10 and SVHN datasets.
+
+
 ## Reinforcement Learning
 
 [Thinking Fast and Slow with Deep Learning and Tree Search](https://arxiv.org/pdf/1705.08439v1.pdf):
