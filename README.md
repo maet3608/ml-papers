@@ -41,10 +41,19 @@ Learning from unlabelled video and audio data.
 Very good results for semi-supervised training on MNIST, CIFAR-10 and SVHN datasets.
 
 
+## Variational Autoencoders
+
+[Adversarial Variational Bayes: Unifying Variational Autoencoders and Generative Adversarial Networks](https://arxiv.org/abs/1701.04722):
+New training procedure for Variational Autoencoders based on adversarial training.
+
+
 ## GANs
 
 [Improved Techniques for Training GANs](https://arxiv.org/pdf/1606.03498.pdf):
 Very good results for semi-supervised training on MNIST, CIFAR-10 and SVHN datasets.
+
+[Adversarial Variational Bayes: Unifying Variational Autoencoders and Generative Adversarial Networks](https://arxiv.org/abs/1701.04722):
+New training procedure for Variational Autoencoders based on adversarial training.
 
 
 ## Reinforcement Learning
