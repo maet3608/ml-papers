@@ -1,6 +1,12 @@
-# (Deep) Machine Learning Papers
+# (Deep) Machine Learning 
 
-A collection of (deep) machine learning papers.
+A collection of (deep) machine learning papers and tutorial.
+
+## Video
+
+[Bay Area ML talks Day 1](https://www.youtube.com/watch?v=eyovmAtoUx0)
+[Bay Area ML talks Day 2](https://www.youtube.com/watch?v=9dXiAecyJrY)
+[Analytics+Vidhya: Data Science tutorials](https://www.analyticsvidhya.com/blog/2016/12/30-top-videos-tutorials-courses-on-machine-learning-artificial-intelligence-from-2016/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29)
 
 
 ## Learning algorithms
