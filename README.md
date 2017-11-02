@@ -1,6 +1,23 @@
 # (Deep) Machine Learning 
 
-A collection of (deep) machine learning papers and tutorial.
+A collection of (deep) machine learning papers, tutorial, datasets and projects.
+
+## Projects
+
+[Unsupervised mapping of bird sounds](https://experiments.withgoogle.com/ai/bird-sounds): T-SNE applied
+to a large set of bird sounds to visualize the similarity/dissimilarity of bird songs. Beautiful 
+visualization that is great fun to play with.
+
+[Quickdraw](https://quickdraw.withgoogle.com): Recognition of quickly drawn sketches of things.
+
+
+
+## Datasets
+
+[Quickdraw](https://github.com/googlecreativelab/quickdraw-dataset): A collection of 50 million drawings across 
+345 categories, contributed by players of the game Quick, Draw. Also some fascinating analytics of the
+dataset.
+
 
 ## Talks
 
