@@ -88,3 +88,13 @@ New training procedure for Variational Autoencoders based on adversarial trainin
 [Thinking Fast and Slow with Deep Learning and Tree Search](https://arxiv.org/pdf/1705.08439v1.pdf):
 Decomposes the problem into separate planning and generalisation tasks and shows better performance than 
 Policy Gradients.
+
+
+## Understanding Networks
+
+[Learning Deep Features for Discriminative Localization](https://arxiv.org/pdf/1512.04150.pdf): Shows how
+utilize a Global Average Pooling layer to compute so called Class Activation Maps (CAM) that allow to identify
+regions of the input image that are important for the classification result.
+
+[Grad-CAM: Why did you say that?](https://arxiv.org/abs/1611.07450): An extension of the above paper
+that enables the computation of Class Activation Maps (CAM) for arbitrary entwork architectures.
