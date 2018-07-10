@@ -42,7 +42,7 @@ have worse test error than Stochastic Gradient Decent.
 [mixup: Beyond Empirical Risk Minimization](https://arxiv.org/abs/1710.09412): 
 Linear interpolation with random factor between samples in a batch. Interpolation is on input AND output data, which requires
 that data is numerical, e.g. images and one-hot-encoded labels and that loss function can handle no-binary labels.
-Easy to implement, paper shows good results. 
+Easy to implement, paper shows good results. [Reviewer comments](https://openreview.net/forum?id=r1Ddp1-Rb) are interesting as well.
 Supported in [nuts-ml](https://maet3608.github.io/nuts-ml/nutsml.html#nutsml.batcher.Mixup)
 
 
