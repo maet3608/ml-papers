@@ -37,6 +37,15 @@ Adaptive Gradient Methods such as Adam converge faster and might even achieve be
 have worse test error than Stochastic Gradient Decent.
 
 
+## Augmentation
+
+[mixup: Beyond Empirical Risk Minimization](https://arxiv.org/abs/1710.09412): 
+Linear interpolation with random factor between samples in a batch. Interpolation is on input AND output data, which requires
+that data is numerical, e.g. images and one-hot-encoded labels and that loss function can handle no-binary labels.
+Easy to implement, paper shows good results. 
+Supported in [nuts-ml](https://maet3608.github.io/nuts-ml/nutsml.html#nutsml.batcher.Mixup)
+
+
 ## Regularization
 
 [Concrete Dropout](https://arxiv.org/pdf/1705.07832v1.pdf):
