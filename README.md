@@ -99,7 +99,7 @@ Decomposes the problem into separate planning and generalisation tasks and shows
 Policy Gradients.
 
 
-## Understanding Networks
+## Understanding Networks / Visualization
 
 [Learning Deep Features for Discriminative Localization](https://arxiv.org/pdf/1512.04150.pdf): Shows how
 utilize a Global Average Pooling layer to compute so called Class Activation Maps (CAM) that allow to identify
@@ -107,3 +107,9 @@ regions of the input image that are important for the classification result.
 
 [Grad-CAM: Why did you say that?](https://arxiv.org/abs/1611.07450): An extension of the above paper
 that enables the computation of Class Activation Maps (CAM) for arbitrary entwork architectures.
+
+[t-SNE-CUDA: GPU-Accelerated t-SNE and its Applications to Modern Data](https://arxiv.org/abs/1807.11824):
+A CUDA implementation of t-sne that is substantially faster than other implementation and for instance
+allows to visualize the entire ImageNet data set.
+
+
