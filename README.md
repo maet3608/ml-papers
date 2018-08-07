@@ -11,7 +11,6 @@ visualization that is great fun to play with.
 [Quickdraw](https://quickdraw.withgoogle.com): Recognition of quickly drawn sketches of things.
 
 
-
 ## Datasets
 
 [Quickdraw](https://github.com/googlecreativelab/quickdraw-dataset): A collection of 50 million drawings across 
@@ -97,6 +96,12 @@ New training procedure for Variational Autoencoders based on adversarial trainin
 [Thinking Fast and Slow with Deep Learning and Tree Search](https://arxiv.org/pdf/1705.08439v1.pdf):
 Decomposes the problem into separate planning and generalisation tasks and shows better performance than 
 Policy Gradients.
+
+
+## Architecture search
+
+[DARTS: Differentiable Architecture Search](https://arxiv.org/abs/1806.09055): Search for
+network architectures using gradient decent. Considerably faster and simpler than other methods.
 
 
 ## Understanding Networks / Visualization
