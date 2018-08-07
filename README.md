@@ -103,6 +103,9 @@ Policy Gradients.
 [DARTS: Differentiable Architecture Search](https://arxiv.org/abs/1806.09055): Search for
 network architectures using gradient decent. Considerably faster and simpler than other methods.
 
+[Evolving simple programs for playing Atari games](https://arxiv.org/abs/1806.05695): Search for
+network architectures/image processing functions using Cartesian Genetic Programming.
+
 
 ## Understanding Networks / Visualization
 
