@@ -29,11 +29,20 @@ dataset.
 - [Analytics+Vidhya: Data Science tutorials](https://www.analyticsvidhya.com/blog/2016/12/30-top-videos-tutorials-courses-on-machine-learning-artificial-intelligence-from-2016/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29)
 
 
-## Learning algorithms
+## Tutorials
+
+[Machine Learning: Basic Principles](https://arxiv.org/abs/1805.05052v4)
+
+
+## Learning improvements
 
 [The Marginal Value of Adaptive Gradient Methods in Machine Learning](https://arxiv.org/pdf/1705.08292v1.pdf):
 Adaptive Gradient Methods such as Adam converge faster and might even achieve better training error but
 have worse test error than Stochastic Gradient Decent.
+
+[Faster Convergence & Generalization in DNNs](https://arxiv.org/abs/1807.11414v2): An SVM based training on mini batches
+that reduces the number of epochs by several magnitudes. Effect on training time is unclear since SVM training is performed on CPU
+though there are GPU-based implementations. Learned networks are shown to be more robust to adversarial noise and over-fitting. 
 
 
 ## Augmentation
