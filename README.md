@@ -44,6 +44,9 @@ that data is numerical, e.g. images and one-hot-encoded labels and that loss fun
 Easy to implement, paper shows good results. [Reviewer comments](https://openreview.net/forum?id=r1Ddp1-Rb) are interesting as well.
 Supported in [nuts-ml](https://maet3608.github.io/nuts-ml/nutsml.html#nutsml.batcher.Mixup)
 
+[Manifold Mixup: Encouraging Meaningful On-Manifold Interpolation as a Regularizer](https://arxiv.org/abs/1806.05236):
+An improved version of mixup where mixup performed not only in input space but also on the network internal layer outputs.
+
 
 ## Regularization
 
