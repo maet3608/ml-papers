@@ -44,6 +44,15 @@ have worse test error than Stochastic Gradient Decent.
 that reduces the number of epochs by several magnitudes. Effect on training time is unclear since SVM training is performed on CPU
 though there are GPU-based implementations. Learned networks are shown to be more robust to adversarial noise and over-fitting. 
 
+[All You Need is Beyond a Good Init: Exploring Better Solution for Training Extremely Deep Convolutional Neural Networks with Orthonormality and Modulation](https://arxiv.org/abs/1703.01827): The authors propose a regularizer variant that allows to
+train very deep networks without the need for residual (shortcuts/identity mappings) connections.
+
+[Dynamical Isometry and a Mean Field Theory of CNNs: How to Train 10,000-Layer Vanilla Convolutional Neural Networks](https://arxiv.org/abs/1806.05393): The authors demonstrate that it is possible to train vanilla CNNs with ten thousand layers 
+or more by using an appropriate initialization scheme. Implementation is available for tensorflow and [PyTorch](https://github.com/tanhongweibest/CNN).
+
+[Understanding Batch Normalization](https://arxiv.org/abs/1806.02375v2): An analysis of batch normalization that reveals that
+batch normalization has a regularizing effect that improves generalization of normalized networks. Activations become large and the convolutional channels become increasingly ill-behaved for layers deep in unnormalized networks.
+
 
 ## Augmentation
 
