@@ -28,6 +28,8 @@ dataset.
 
 - [Analytics+Vidhya: Data Science tutorials](https://www.analyticsvidhya.com/blog/2016/12/30-top-videos-tutorials-courses-on-machine-learning-artificial-intelligence-from-2016/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29)
 
+- [Introduction to ML by Facebook](https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/)
+
 
 ## Tutorials
 
