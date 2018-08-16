@@ -24,6 +24,12 @@ dataset.
 - [Bay Area ML talks Day 2](https://www.youtube.com/watch?v=9dXiAecyJrY)
 
 
+## Overview / Critical reviews
+
+- [Deep Learning: A Critical Appraisal](https://arxiv.org/abs/1801.00631v1): A very nice summary of the issues with the current
+state of Deep Learning.
+
+
 ## Video tutorials
 
 - [Analytics+Vidhya: Data Science tutorials](https://www.analyticsvidhya.com/blog/2016/12/30-top-videos-tutorials-courses-on-machine-learning-artificial-intelligence-from-2016/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29)
