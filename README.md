@@ -152,6 +152,11 @@ A CUDA implementation of t-sne that is substantially faster than other implement
 allows to visualize the entire ImageNet data set.
 
 
+## Visual Question Answering
+
+[Explainable Neural Computation via Stack Neural Module Networks](https://arxiv.org/abs/1807.08556v1): Neural module networks for visual question answering.
+
+
 ## NextGen Machine Learning
 
 [Neural-Symbolic Learning and Reasoning: A Survey and Interpretation](https://arxiv.org/abs/1711.03902): How to integrate low-level, sub-symbolic neural network learning and high-level, symbolic reasoning.
