@@ -61,6 +61,8 @@ or more by using an appropriate initialization scheme. Implementation is availab
 [Understanding Batch Normalization](https://arxiv.org/abs/1806.02375v2): An analysis of batch normalization that reveals that
 batch normalization has a regularizing effect that improves generalization of normalized networks. Activations become large and the convolutional channels become increasingly ill-behaved for layers deep in unnormalized networks.
 
+[Recent Advances in Convolutional Neural Network Acceleration](https://arxiv.org/abs/1807.08596v1): A nice review of methods to accelerate CNN training and inference (including hardware approacjes).
+
 
 ## Augmentation
 
