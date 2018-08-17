@@ -152,3 +152,7 @@ A CUDA implementation of t-sne that is substantially faster than other implement
 allows to visualize the entire ImageNet data set.
 
 
+## NextGen Machine Learning
+
+[Neural-Symbolic Learning and Reasoning: A Survey and Interpretation](https://arxiv.org/abs/1711.03902): How to integrate low-level, sub-symbolic neural network learning and high-level, symbolic reasoning.
+
