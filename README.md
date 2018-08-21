@@ -63,6 +63,9 @@ batch normalization has a regularizing effect that improves generalization of no
 
 [Recent Advances in Convolutional Neural Network Acceleration](https://arxiv.org/abs/1807.08596v1): A nice review of methods to accelerate CNN training and inference (including hardware approacjes).
 
+[Reducing Parameter Space for Neural Network Training](https://arxiv.org/pdf/1805.08340v2): Authors show that limiting the network weights to be on a hypersphere leads to better result for some small regression problems and is less sensitive to the initial
+weight initialization.
+
 
 ## Augmentation
 
@@ -131,6 +134,9 @@ Policy Gradients.
 
 ## Architecture search
 
+[Neural Architecture Search: A Survey](https://arxiv.org/pdf/1808.05377v1.pdf): As the title says:
+a review of methods to automatically determine the structure of a neural network.
+
 [DARTS: Differentiable Architecture Search](https://arxiv.org/abs/1806.09055): Search for
 network architectures using gradient decent. Considerably faster and simpler than other methods.
 
@@ -140,7 +146,7 @@ network architectures/image processing functions using Cartesian Genetic Program
 
 ## Understanding Networks / Visualization
 
-[Learning Deep Features for Discriminative Localization](https://arxiv.org/pdf/1512.04150.pdf): Shows how
+[Learning Deep Features for Discriminative Localization](https://arxiv.org/pdf/1512.04150): Shows how
 utilize a Global Average Pooling layer to compute so called Class Activation Maps (CAM) that allow to identify
 regions of the input image that are important for the classification result.
 
