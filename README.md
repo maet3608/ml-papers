@@ -81,6 +81,9 @@ An improved version of mixup where mixup performed not only in input space but a
 
 ## Regularization
 
+[Regularization and Optimization strategies in Deep Convolutional Neural Network](https://arxiv.org/pdf/1712.04711.pdf): 
+A nice summary of regularization techniques and deep learning in general.
+
 [Concrete Dropout](https://arxiv.org/pdf/1705.07832v1.pdf):
 Automatic tuning of the dropout probability using gradient methods.
 
