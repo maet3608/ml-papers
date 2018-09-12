@@ -92,12 +92,6 @@ Automatic learning of patch sizes and shapes in contrast to fixed, rectangular p
 for segmentation. Achieves better segmentation.
 
 
-## Saliency maps
-
-[Real Time Image Saliency for Black Box Classifiers](https://arxiv.org/pdf/1705.07857v1.pdf):
-Fast saliency detection method that can be applied to any differentiable image classifier.
-
-
 ## Unsupervised
 
 [Look, Listen and Learn](https://arxiv.org/pdf/1705.08168v1.pdf):
@@ -145,6 +139,9 @@ network architectures/image processing functions using Cartesian Genetic Program
 
 
 ## Understanding Networks / Visualization
+
+[Real Time Image Saliency for Black Box Classifiers](https://arxiv.org/pdf/1705.07857v1.pdf):
+Fast saliency detection method that can be applied to any differentiable image classifier.
 
 [Learning Deep Features for Discriminative Localization](https://arxiv.org/pdf/1512.04150): Shows how
 utilize a Global Average Pooling layer to compute so called Class Activation Maps (CAM) that allow to identify
