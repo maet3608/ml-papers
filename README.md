@@ -2,6 +2,11 @@
 
 A collection of (deep) machine learning papers, tutorial, datasets and projects.
 
+## Other collections papers
+
+[NIPS](https://github.com/hindupuravinash/nips2017)
+
+
 ## Projects
 
 [Unsupervised mapping of bird sounds](https://experiments.withgoogle.com/ai/bird-sounds): T-SNE applied
