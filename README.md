@@ -83,6 +83,9 @@ batch normalization has a regularizing effect that improves generalization of no
 [Reducing Parameter Space for Neural Network Training](https://arxiv.org/pdf/1805.08340v2): Authors show that limiting the network weights to be on a hypersphere leads to better result for some small regression problems and is less sensitive to the initial
 weight initialization.
 
+[Do Deep Nets Really Need to be Deep?](https://arxiv.org/pdf/1312.6184.pdf): A very interesting paper demonstrating that shallow
+networks can perform as well as deep networks - rasing the question, whether DL architectures are actually necessary.
+
 
 ## Augmentation
 
