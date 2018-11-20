@@ -191,15 +191,22 @@ How to integrate low-level, sub-symbolic neural network learning and high-level,
 [Explainable Neural Computation via Stack Neural Module Networks](https://arxiv.org/abs/1807.08556v1): 
 Neural module networks for visual question answering.
 
+[A simple neural network module for relational reasoning](https://arxiv.org/abs/1706.01427): A beautifully
+simple network architecture for relational learning and VQ answering.
 
-## Relational Networks
+
+## Relational Learning
 
 [A Review of Relational Machine Learning for Knowledge Graphs](https://arxiv.org/abs/1503.00759): A very nice
 review of Relational Learning using tensor factorization and neural network approaches (e.g. RESCAL).
 
 [A Semantic Matching Energy Function for Learning with Multi-relational Data](https://arxiv.org/abs/1301.3485):
-Relational Network learns relationship embeddings and achieves high accuracies by combining entity embeddings 
-and relationship embeddings separately first before combining the results.
+Relational Network learns relationship embeddings and combines entity embeddings and relationship embeddings 
+separately first before combining the results.
+
+[A latent factor model for highly multi-relational data](https://papers.nips.cc/paper/4744-a-latent-factor-model-for-highly-multi-relational-data.pdf):
+An improved method for relational learning with performance better than RESCAL and SME, 
+which scales well for large numbers of relationships.
 
 
 ## Tensor Factorization
