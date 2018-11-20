@@ -178,14 +178,33 @@ A CUDA implementation of t-sne that is substantially faster than other implement
 allows to visualize the entire ImageNet data set.
 
 
-## Visual Question Answering
-
-[Explainable Neural Computation via Stack Neural Module Networks](https://arxiv.org/abs/1807.08556v1): Neural module networks for visual question answering.
-
-
 ## Neuro-symbolic computing
 
 Comination/integration of symbolic reasoning/representation with sub-symbolic/distributed representations.
 
-[Neural-Symbolic Learning and Reasoning: A Survey and Interpretation](https://arxiv.org/abs/1711.03902): How to integrate low-level, sub-symbolic neural network learning and high-level, symbolic reasoning.
+[Neural-Symbolic Learning and Reasoning: A Survey and Interpretation](https://arxiv.org/abs/1711.03902): 
+How to integrate low-level, sub-symbolic neural network learning and high-level, symbolic reasoning.
+
+
+## Visual Question Answering
+
+[Explainable Neural Computation via Stack Neural Module Networks](https://arxiv.org/abs/1807.08556v1): 
+Neural module networks for visual question answering.
+
+
+## Relational Networks
+
+[A Review of Relational Machine Learning for Knowledge Graphs](https://arxiv.org/abs/1503.00759): A very nice
+review of Relational Learning using tensor factorization and neural network approaches (e.g. RESCAL).
+
+[A Semantic Matching Energy Function for Learning with Multi-relational Data](https://arxiv.org/abs/1301.3485):
+Relational Network learns relationship embeddings and achieves high accuracies by combining entity embeddings 
+and relationship embeddings separately first before combining the results.
+
+
+## Tensor Factorization
+
+[A general model for robust tensor factorization with unknown noise](https://arxiv.org/abs/1705.06755): Impressive
+de-nosing of images using tensor factorization.
+
 
