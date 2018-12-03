@@ -4,7 +4,7 @@ A collection of (deep) machine learning papers, tutorial, datasets and projects.
 
 ## Other collections papers
 
-[NIPS](https://github.com/hindupuravinash/nips2017)
+[NeuroIPS](https://github.com/hindupuravinash/nips2017)
 
 
 ## Projects
@@ -172,6 +172,10 @@ regions of the input image that are important for the classification result.
 
 [Grad-CAM: Why did you say that?](https://arxiv.org/abs/1611.07450): An extension of the above paper
 that enables the computation of Class Activation Maps (CAM) for arbitrary entwork architectures.
+
+[RISE: Randomized Input Sampling for Explanation of Black-box Models](https://arxiv.org/abs/1806.07421):
+A black-box approach that uses randomly occluded images to create saliency maps. More accurate than
+Grad-CAM, does not require a specific network architecture and creates high-resolution maps.
 
 [t-SNE-CUDA: GPU-Accelerated t-SNE and its Applications to Modern Data](https://arxiv.org/abs/1807.11824):
 A CUDA implementation of t-sne that is substantially faster than other implementation and for instance
