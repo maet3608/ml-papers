@@ -200,16 +200,29 @@ Comination/integration of symbolic reasoning/representation with sub-symbolic/di
 How to integrate low-level, sub-symbolic neural network learning and high-level, symbolic reasoning.
 
 
-## Visual Question Answering
+### Visual Question Answering
+
+[Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding](https://arxiv.org/abs/1810.02338):
+A nice introduction and reference of VQA approaches. Introducing a novel method (easy to understand but less "organic") 
+with excellent results (99.8%) on CLEVR.
+
+[FiLM: Visual Reasoning with a General Conditioning Layer](https://arxiv.org/abs/1709.07871): Highly
+accurate (on CLEVR) and simple model (FiLM).
+
+[How clever is the FiLM model, and how clever can it be?](https://arxiv.org/abs/1809.03044): An analysis
+of the FiLM model for VQA.
+
+[A simple neural network module for relational reasoning](https://arxiv.org/abs/1706.01427): A beautifully
+simple network architecture for relational learning and VQ answering but less accurate than FiLM.
+
+[An Analysis of Visual Question Answering Algorithms](https://arxiv.org/abs/1703.09684): A useful overview
+over VQ datasets (missing CLEVR, however) 
 
 [Explainable Neural Computation via Stack Neural Module Networks](https://arxiv.org/abs/1807.08556v1): 
 Neural module networks for visual question answering.
 
-[A simple neural network module for relational reasoning](https://arxiv.org/abs/1706.01427): A beautifully
-simple network architecture for relational learning and VQ answering.
 
-
-## Relational Learning
+### Relational Learning
 
 [A Review of Relational Machine Learning for Knowledge Graphs](https://arxiv.org/abs/1503.00759): A very nice
 review of Relational Learning using tensor factorization and neural network approaches (e.g. RESCAL).
@@ -217,8 +230,17 @@ review of Relational Learning using tensor factorization and neural network appr
 [A Three-Way Model for Collective Learning on Multi-Relational Data](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwiy2qmQpZbfAhUN3Y8KHbufAIgQFjAAegQIChAC&url=http%3A%2F%2Fwww.icml-2011.org%2Fpapers%2F438_icmlpaper.pdf&usg=AOvVaw0frK-gzkLllcW0uapkn4Lp): Tensor-based Relational Learning
 introducing the simple but effective RESCAL algorithm.
 
+[Holographic Embeddings of Knowledge Graphs](https://arxiv.org/abs/1510.04935): An improvement of RESCAL that
+leads to a model with considerably less parameters and better accuracy.
+
+[Embedding Entities and Relations for Learning and Inference in Knowledge Bases](https://arxiv.org/abs/1412.6575): A
+very nice comparison of embedding based relational learning algorithms.
+
 [A simple neural network module for relational reasoning](https://arxiv.org/abs/1706.01427): A beautifully
 simple network architecture for relational learning and VQ answering.
+
+[FiLM: Visual Reasoning with a General Conditioning Layer](https://arxiv.org/abs/1709.07871): A slighly older more
+complex 
 
 [A Semantic Matching Energy Function for Learning with Multi-relational Data](https://arxiv.org/abs/1301.3485):
 Relational Network learns relationship embeddings and combines entity embeddings and relationship embeddings 
