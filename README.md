@@ -182,6 +182,16 @@ A CUDA implementation of t-sne that is substantially faster than other implement
 allows to visualize the entire ImageNet data set.
 
 
+## Tensor Factorization
+
+[A general model for robust tensor factorization with unknown noise](https://arxiv.org/abs/1705.06755): Impressive
+de-nosing of images using tensor factorization.
+
+[Canonical Tensor Decomposition for Knowledge Base Completion](https://arxiv.org/abs/1806.07297): 
+A nice comparison of tensor-based methods for Knowledge Base Completion demonstrating that CP
+performs as well as others provided parameters are chosen carefully.
+
+
 ## Neuro-symbolic computing
 
 Comination/integration of symbolic reasoning/representation with sub-symbolic/distributed representations.
@@ -204,6 +214,12 @@ simple network architecture for relational learning and VQ answering.
 [A Review of Relational Machine Learning for Knowledge Graphs](https://arxiv.org/abs/1503.00759): A very nice
 review of Relational Learning using tensor factorization and neural network approaches (e.g. RESCAL).
 
+[A Three-Way Model for Collective Learning on Multi-Relational Data](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwiy2qmQpZbfAhUN3Y8KHbufAIgQFjAAegQIChAC&url=http%3A%2F%2Fwww.icml-2011.org%2Fpapers%2F438_icmlpaper.pdf&usg=AOvVaw0frK-gzkLllcW0uapkn4Lp): Tensor-based Relational Learning
+introducing the simple but effective RESCAL algorithm.
+
+[A simple neural network module for relational reasoning](https://arxiv.org/abs/1706.01427): A beautifully
+simple network architecture for relational learning and VQ answering.
+
 [A Semantic Matching Energy Function for Learning with Multi-relational Data](https://arxiv.org/abs/1301.3485):
 Relational Network learns relationship embeddings and combines entity embeddings and relationship embeddings 
 separately first before combining the results.
@@ -211,11 +227,4 @@ separately first before combining the results.
 [A latent factor model for highly multi-relational data](https://papers.nips.cc/paper/4744-a-latent-factor-model-for-highly-multi-relational-data.pdf):
 An improved method for relational learning with performance better than RESCAL and SME, 
 which scales well for large numbers of relationships.
-
-
-## Tensor Factorization
-
-[A general model for robust tensor factorization with unknown noise](https://arxiv.org/abs/1705.06755): Impressive
-de-nosing of images using tensor factorization.
-
 
