@@ -48,8 +48,7 @@ state of Deep Learning.
 
 [Deep Learning - Berkely](https://berkeley-deep-learning.github.io/cs294-131-s17/)
 
-[Tensorflow](https://github.com/chiphuyen/stanford-tensorflow-tutorials/
-https://stats385.github.io/)
+[Tensorflow](https://github.com/chiphuyen/stanford-tensorflow-tutorials/)
 
 [More Tensorflow](https://github.com/nlintz/TensorFlow-Tutorials)
 
