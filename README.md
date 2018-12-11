@@ -215,6 +215,12 @@ of the FiLM model for VQA.
 [A simple neural network module for relational reasoning](https://arxiv.org/abs/1706.01427): A beautifully
 simple network architecture for relational learning and VQ answering but less accurate than FiLM.
 
+[Inferring and executing programs for visual reasoning](https://arxiv.org/abs/1705.03633): Uses LSTMs to creates 
+programs from questions to perform symbolic reasoning on scene (CLEVR benchmark).
+
+[CLEVR: A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning](https://arxiv.org/abs/1612.06890):
+Introducing the CLEVR benchmark. A piece of art!
+
 [An Analysis of Visual Question Answering Algorithms](https://arxiv.org/abs/1703.09684): A useful overview
 over VQ datasets (missing CLEVR, however) 
 
