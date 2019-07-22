@@ -2,9 +2,10 @@
 
 A collection of (deep) machine learning papers, tutorial, datasets and projects.
 
-## Other collections papers
+## Other paper/link collections
 
 [NeuroIPS](https://github.com/hindupuravinash/nips2017)
+[The incredible Pytorch](https://www.ritchieng.com/the-incredible-pytorch/)
 
 
 ## Projects
@@ -55,11 +56,6 @@ state of Deep Learning.
 [Reinforcement Learning](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
 
 [More reinforcement Learning](https://github.com/dennybritz/reinforcement-learning)
-
-
-## Other paper/link collections
-
-[The incredible Pytorch](https://www.ritchieng.com/the-incredible-pytorch/)
 
 
 ## Learning improvements
