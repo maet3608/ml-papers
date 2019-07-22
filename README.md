@@ -57,6 +57,10 @@ state of Deep Learning.
 [More reinforcement Learning](https://github.com/dennybritz/reinforcement-learning)
 
 
+## Other paper/link collections
+
+[The incredible Pytorch](https://www.ritchieng.com/the-incredible-pytorch/)
+
 
 ## Learning improvements
 
