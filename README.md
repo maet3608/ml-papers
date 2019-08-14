@@ -53,9 +53,9 @@ state of Deep Learning.
 
 [More Tensorflow](https://github.com/nlintz/TensorFlow-Tutorials)
 
-[Reinforcement Learning](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
-
-[More reinforcement Learning](https://github.com/dennybritz/reinforcement-learning)
+[Reinforcement Learning1](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
+[Reinforcement Learning2](https://github.com/dennybritz/reinforcement-learning)
+[Reinforcement Learning3](http://www.argmin.net/2018/06/25/outsider-rl/)
 
 
 ## Learning improvements
