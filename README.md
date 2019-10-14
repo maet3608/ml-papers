@@ -180,6 +180,9 @@ Grad-CAM, does not require a specific network architecture and creates high-reso
 A CUDA implementation of t-sne that is substantially faster than other implementation and for instance
 allows to visualize the entire ImageNet data set.
 
+[Identifying Weights and Architectures of Unknown ReLU Networks](https://arxiv.org/abs/1910.00744):
+An extremely cool paper showing that it is possible to reconstruct the architecture, weights, and biases 
+of a deep ReLU network given the ability to query the network. 
 
 ## Tensor Factorization
 
