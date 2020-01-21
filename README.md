@@ -58,6 +58,12 @@ state of Deep Learning.
 [Reinforcement Learning3](http://www.argmin.net/2018/06/25/outsider-rl/)
 
 
+## Blogs
+
+[Rules of Machine Learning: Best Practices for ML Engineering]
+(https://developers.google.com/machine-learning/guides/rules-of-ml/)
+
+
 ## Learning improvements
 
 [The Marginal Value of Adaptive Gradient Methods in Machine Learning](https://arxiv.org/pdf/1705.08292v1.pdf):
