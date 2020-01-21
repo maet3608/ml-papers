@@ -60,8 +60,7 @@ state of Deep Learning.
 
 ## Blogs
 
-[Rules of Machine Learning: Best Practices for ML Engineering]
-(https://developers.google.com/machine-learning/guides/rules-of-ml/)
+[Rules of Machine Learning: Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml/)
 
 
 ## Learning improvements
