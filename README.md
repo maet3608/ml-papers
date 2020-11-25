@@ -5,8 +5,10 @@ A collection of (deep) machine learning papers, tutorial, datasets and projects.
 ## Other paper/link collections
 
 [NeuroIPS](https://github.com/hindupuravinash/nips2017)
+
 [The incredible Pytorch](https://www.ritchieng.com/the-incredible-pytorch/)
 
+[Over 200 of the Best Machine Learning, NLP, and Python Tutorials](https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc)
 
 ## Projects
 
